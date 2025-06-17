@@ -18,12 +18,10 @@ I enjoy tackling complex problems and creating efficient, scalable solutions. Wi
 ---
 
 ## GitHub Stats
-![](https://nirzak-streak-stats.vercel.app/?user=jade211&theme=calm_pink&hide_border=false)<br/>
-
-
-![](https://github-readme-stats.vercel.app/api?username=jade211&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jade211&layout=compact)
-
+| Streak Stats | GitHub Stats | Top Languages |
+|--------------|--------------|---------------|
+| ![](https://nirzak-streak-stats.vercel.app/?user=jade211&theme=calm_pink&hide_border=false) | ![](https://github-readme-stats.vercel.app/api?username=jade211&show_icons=true&theme=radical) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jade211&layout=compact) |
+![Profile Views](https://komarev.com/ghpvc/?username=jade211&style=flat-square&color=blue)
 ---
 
 ## Tech Stack
@@ -38,6 +36,8 @@ I enjoy tackling complex problems and creating efficient, scalable solutions. Wi
 ![ARCore](https://img.shields.io/badge/-ARCore-4285F4?style=flat&logo=google&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
