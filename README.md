@@ -48,5 +48,4 @@ I enjoy tackling complex problems and creating efficient, scalable solutions. Wi
 ## Pinned Repositories
 
 - [ARrangeIt](https://github.com/jade211/ARrangeIt)
-- [Codease](https://github.com/jade211/Digital-Atlas)
-
+- [Digital Atlas](https://github.com/jade211/Digital-Atlas)
