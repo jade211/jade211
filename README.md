@@ -18,6 +18,8 @@ I enjoy tackling complex problems and creating efficient, scalable solutions. Wi
 ---
 
 ## GitHub Stats
+![](https://nirzak-streak-stats.vercel.app/?user=jade211&theme=calm_pink&hide_border=false)<br/>
+
 
 ![](https://github-readme-stats.vercel.app/api?username=jade211&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jade211&layout=compact)
@@ -44,8 +46,3 @@ I enjoy tackling complex problems and creating efficient, scalable solutions. Wi
 
 
 ---
-
-## Pinned Repositories
-
-- [ARrangeIt](https://github.com/jade211/ARrangeIt)
-- [Digital Atlas](https://github.com/jade211/Digital-Atlas)
