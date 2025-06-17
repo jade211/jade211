@@ -6,7 +6,7 @@ I enjoy tackling complex problems and creating efficient, scalable solutions. Wi
 
 ## Currently Working On 🔨
 - Building a cross-platform **AI-powered skincare app** with **face scan & skin analysis**, personalised routine recommendations, ingredient safety checks, and inclusive support for diverse skin tones, using **Flutter** frontend and **Firebase** backend with ML models.
-- Continuing on developing and maintaining an **AR-based mobile app** to help users visualise home decor furniture in real environments using **ARCore** and **Firebase**.  
+- Continuing development and maintaining an **AR-based mobile app** to help users visualise home decor furniture in real environments using **ARCore** and **Firebase**.  
 
 ---
 
