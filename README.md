@@ -12,7 +12,7 @@ I enjoy tackling complex problems and creating efficient, scalable solutions. Wi
 
 ## Socials 🌐
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jade-hudson-ab5b9423b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=inspire&logoColor=white)](https://www.linkedin.com/in/jade-hudson-ab5b9423b)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jadehudson131@example.com)
 
 ---
